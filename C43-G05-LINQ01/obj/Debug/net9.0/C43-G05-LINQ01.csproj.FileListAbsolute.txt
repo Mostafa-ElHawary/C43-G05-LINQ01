@@ -12,3 +12,4 @@ C:\Users\welcome\source\repos\C43-G05-LINQ01\C43-G05-LINQ01\obj\Debug\net9.0\ref
 C:\Users\welcome\source\repos\C43-G05-LINQ01\C43-G05-LINQ01\obj\Debug\net9.0\C43-G05-LINQ01.pdb
 C:\Users\welcome\source\repos\C43-G05-LINQ01\C43-G05-LINQ01\obj\Debug\net9.0\C43-G05-LINQ01.genruntimeconfig.cache
 C:\Users\welcome\source\repos\C43-G05-LINQ01\C43-G05-LINQ01\obj\Debug\net9.0\ref\C43-G05-LINQ01.dll
+C:\Users\welcome\source\repos\C43-G05-LINQ01\C43-G05-LINQ01\obj\Debug\net9.0\C43-G05-LINQ01.sourcelink.json
