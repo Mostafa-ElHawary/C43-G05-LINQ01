@@ -26,10 +26,31 @@ namespace C43_G05_LINQ01
             #endregion
             // ***************************************************
             #region Extention methods
+            
+
+
+            //int number = 123456;
+            ////int result = IntExntetion.Reverse(number); // Class Member Method
+            //int result = number.Reverse(); // Extention Method
+            //Console.WriteLine(result);
 
             #endregion
             // ***************************************************
             #region What is LINQ
+            // linq is a set of methods that allow you to query collections in a more readable and concise way.
+            // : 40 Extension Method (LINQ Operators) Against Any Data [Data in Sequence]
+            // : Regardless of the Data Store
+            // : 13 Category
+            // : LINQ Operators Exists in Built-in Class "IEnumerable"
+
+            // Sequence : Object From Class Implement Interface "Enumerable"
+            // Local Sequence : LINQ to XML File or with Data there at File
+            // Remote Sequence : LINQ To EF Core
+
+            // Any LINQ Operator have 3 kind
+            // Input Sequence -> LINQ Operator -> OutPut Sequence
+            // Input Sequence -> LINQ Operator -> One Value
+            //                -> LINQ Operator -> OutPut Sequence
 
             #endregion
             // ***************************************************
